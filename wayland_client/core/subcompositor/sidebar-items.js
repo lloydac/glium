@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SubCompositor","A wayland subcompositor."],["SubSurface","A wayland subsurface."]]});
